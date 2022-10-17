@@ -4,7 +4,7 @@
 
 |**Tipo de Projeto**|**Qtde de imagens por classe**|**Qtde de classes**|
 |--|--|--|
-| Detecção de objetos<br>| 100| 3|
+| Detecção de objetos<br>| 100| 4|
 
 ### Informações Adicionais
 Projeto final da disciplina modelos conexionistas.
