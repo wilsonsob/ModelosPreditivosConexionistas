@@ -7,4 +7,8 @@
 | Detecção de objetos<br>| 100| 4|
 
 ### Informações Adicionais
-Projeto final da disciplina modelos conexionistas.
+Projeto final da disciplina modelos conexionistas. Detecção de 4 objetos dos seguintes objetos: 
+1. Monitor/TV;
+2. Cadeira;
+3. Geladeira;e
+4. Cama.
