@@ -1,14 +1,38 @@
-# Dataset - Modelos Preditivos Conexionistas 2022.01
+# Projeto Final - Modelos Preditivos Conexionistas
 
-### Wilson de Oliveira Sobrinho Filho
+### Nome do aluno
 
-|**Tipo de Projeto**|**Qtde de imagens por classe**|**Qtde de classes**|
+|**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
 |--|--|--|
-| Detecção de objetos<br>| 100| 4|
+|<br>Deteção de Objetos|YOLOv5|PyTorch|
 
-### Informações Adicionais
-Projeto final da disciplina modelos conexionistas. Detecção dos seguintes objetos: 
-1. Monitor/TV;
-2. Cadeira;
-3. Geladeira;e
-4. Cama.
+## Performance
+
+O modelo treinado possui performance de **70%**.
+
+### Output do bloco de treinamento
+
+<details>
+  <summary>Click to expand!</summary>
+  
+  ```text
+    Você deve colar aqui a saída do bloco de treinamento do notebook, contendo todas as épocas e saídas do treinamento
+  ```
+</details>
+
+### Evidências do treinamento
+
+Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
+
+Exemplo de adição de imagem:
+![Descrição]()
+
+## Roboflow
+
+Nessa seção deve colocar o link para acessar o dataset no Roboflow
+
+Exemplo de link: [Nome do link](google.com)
+
+## HuggingFace
+
+Nessa seção você deve publicar o link para o HuggingFace
