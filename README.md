@@ -1149,7 +1149,8 @@ Model summary: 157 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
 Nessa seção você deve colocar qualquer evidência do treinamento, como por exemplo gráficos de perda, performance, matriz de confusão etc.
 
 Exemplo de adição de imagem:
-![Descrição]()
+![Descrição](![confusion_matrix](https://user-images.githubusercontent.com/89791550/199508118-393f62b7-d4f2-4024-bdb1-646dbec6c589.png)
+)
 
 ## Roboflow
 
