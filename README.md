@@ -1147,7 +1147,7 @@ Model summary: 157 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
 ### Evidências do treinamento
 
 
-![confusion_matrix](https://user-images.githubusercontent.com/89791550/199508118-393f62b7-d4f2-4024-bdb1-646dbec6c589.png)
+![confusion_matrix](https://user-images.githubusercontent.com/89791550/199508118-393f62b7-d4f2-4024-bdb1-646dbec6c589.png=10x)
 
 ## Roboflow
 
