@@ -1156,7 +1156,7 @@ Exemplo de adição de imagem:
 
 Nessa seção deve colocar o link para acessar o dataset no Roboflow
 
-Exemplo de link: [Nome do link](google.com)
+Exemplo de link: [Nome do link]((https://app.roboflow.com/wilsoncesarschool/projetofinalmodelosconexionistas/1))
 
 ## HuggingFace
 
