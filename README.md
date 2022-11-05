@@ -8,7 +8,7 @@
 
 ## Performance
 
-O modelo treinado possui performance de **70%**.
+O modelo treinado possui performance de **69%**.
 
 ### Output do bloco de treinamento
 
@@ -1457,8 +1457,8 @@ Model summary: 157 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
 ### Evidências do treinamento
 
 
-![confusion_matrix](![results](https://user-images.githubusercontent.com/89791550/200121581-22cd817d-babb-436d-83bf-2b607d526df2.png)
-)
+![confusion_matrix](https://user-images.githubusercontent.com/89791550/200121581-22cd817d-babb-436d-83bf-2b607d526df2.png)
+
 
 ## Roboflow
 
