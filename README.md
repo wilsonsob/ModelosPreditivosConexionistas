@@ -1457,7 +1457,8 @@ Model summary: 157 layers, 7020913 parameters, 0 gradients, 15.8 GFLOPs
 ### Evidências do treinamento
 
 
-![confusion_matrix]()
+![confusion_matrix](![results](https://user-images.githubusercontent.com/89791550/200121581-22cd817d-babb-436d-83bf-2b607d526df2.png)
+)
 
 ## Roboflow
 
@@ -1465,4 +1466,4 @@ https://app.roboflow.com/wilsoncesarschool/projetofinalmodelosconexionistas/1
 
 ## HuggingFace
 
-Nessa seção você deve publicar o link para o HuggingFace
+https://huggingface.co/wilsonsob/projetoFinal
